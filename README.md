@@ -9,11 +9,24 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+alles hiertussen staat in een vak, waarbij de site code laat zien.
+```
+
+
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Grote header
+
+Blablabla
+
+## Middel-grote header
+
+Blahblahblah
+
+###### Kleine header
+
+Nog meer tekst!
+
 
 - Bulleted
 - List
@@ -24,7 +37,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 [De tweede pagina](banaan.md) [Test link naar google](https://www.google.com)
