@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/Pipapaula/pipapizza.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Dit is een introductie-stukje. Hier kun je doorverwijzen naar [een tweede pagina](https://pipapaula.github.io/pipapizza.github.io/Banaan.md) met andere informatie. Ook links naar sites op andere servers zijn mogelijk, bijvoorbeeld naar [Google](https://www.google.com)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -41,10 +43,6 @@ Foto's kunnen ook worden geplaatst:
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-[De tweede pagina](https://pipapaula.github.io/pipapizza.github.io/Banaan.md) 
-
-[Test link naar google](https://www.google.com)
 
 
 
