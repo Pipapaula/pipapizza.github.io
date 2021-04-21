@@ -28,6 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 [De tweede pagina](banaan.md)
+[Test link naar google] (https://www.google.com)
 
 ### Jekyll Themes
 
