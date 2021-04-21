@@ -41,7 +41,12 @@ Foto's kunnen ook worden geplaatst:
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[De tweede pagina](pipapizza.github.io/Banaan.md) [Test link naar google](https://www.google.com)
+
+[De tweede pagina](https://pipapaula.github.io/pipapizza.github.io/Banaan.md) 
+
+[Test link naar google](https://www.google.com)
+
+
 
 ### Jekyll Themes
 
