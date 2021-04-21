@@ -13,8 +13,6 @@ alles hiertussen staat in een vak, waarbij de site code laat zien.
 ```
 
 
-Syntax highlighted code block
-
 # Grote header
 
 Blablabla
@@ -26,17 +24,20 @@ Blahblahblah
 ###### Kleine header
 
 Nog meer tekst!
+Bijvoorbeeld een quote:
+> dit is een quote
 
+Of lijsten:
+- Lijst met streepjes
+- Tweede item op de lijst
 
-- Bulleted
-- List
+1. Nummer een
+2. nummer twee
 
-1. Numbered
-2. List
+Tekst kan ook **dikgedrukt**, _cursief_, en in `Code` stijl
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Foto's kunnen ook worden geplaatst:
+![Image](src)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
