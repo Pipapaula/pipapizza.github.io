@@ -1,9 +1,9 @@
-## Pipapizza
+## Welkom op de site van Pipapizza
 
 
 Dit is een introductie-stukje. Hier kun je doorverwijzen naar [een tweede pagina](https://pipapaula.github.io/pipapizza.github.io/Banaan.md) met andere informatie. Ook links naar sites op andere servers zijn mogelijk, bijvoorbeeld naar [Google](https://www.google.com)
 
-### Markdown
+### Deze site gebruikt markdown commands
 Een  markdown command ziet er zo uit:
 ```markdown
 alles hiertussen staat in een vak, waarbij de site code laat zien.
@@ -18,11 +18,7 @@ Een grote header heeft 1 # voorafgaand.
 
 Terwijl een iets kleinere header er twee heeft!
 
-### Header met drie hashtags
-
-Deze heeft er drie.
-
-###### Kleine header
+###### Tekstopmaak
 
 De kleinste header mogelijk heeft er zes.
 
