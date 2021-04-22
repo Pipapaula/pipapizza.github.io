@@ -36,7 +36,7 @@ Of lijsten:
 Tekst kan ook **dikgedrukt**, _cursief_, en in `Code` stijl
 
 Foto's kunnen ook worden geplaatst:
-![Image](src)
+![curious mouse](src)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
