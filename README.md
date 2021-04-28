@@ -35,6 +35,14 @@ Of lijsten:
 
 Tekst kan ook **dikgedrukt**, _cursief_, en in `Code` stijl
 
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+
 Foto's kunnen ook worden geplaatst:
 ![curious mouse](https://pipapaula.github.io/pipapizza.github.io/Curious%20mouse.jpg)
 
