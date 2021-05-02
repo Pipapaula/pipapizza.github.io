@@ -1,7 +1,7 @@
 ## Welkom op de site van Pipapizza
 
-
-Dit is een introductie-stukje. Hier kun je doorverwijzen naar [een tweede pagina](https://pipapaula.github.io/pipapizza.github.io/Banaan.md) met andere informatie. Ook links naar sites op andere servers zijn mogelijk, bijvoorbeeld naar [Google](https://www.google.com)
+Hallo!
+Dit is een introductie-stukje. Hier kun je doorverwijzen naar [een tweede pagina](https://pipapaula.github.io/pipapizza.github.io/Banaan.html) met andere informatie. Ook links naar sites op andere servers zijn mogelijk, bijvoorbeeld naar [Google](https://www.google.com)
 
 ### Deze site gebruikt markdown commands
 Een  markdown command ziet er zo uit:
